@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Vivek, I am a Software Developer. I’m currently working on Java, Groovy, Grails, Javascript, Vue.JS, Backbone.JS and Looking forward to learn more about designing and develop an Application from scratch.
 <!--
 **vivekdev93/vivekdev93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
